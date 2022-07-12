@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Orbit 👋
+Turning unstructured data into predictive indicators.
+Our products provide early warning indicators via an intuitive online dashboard, rapidly mining news feeds and unstructured data at speed and scale to highlight risk probability based on your search parameters.
+
+As well as predictive analytics and risk oversight, we can provide an additional layer of scrutiny that evidences and predicts the positive, negative or neutral events that occur in global financial markets.
 
 <!--
 
