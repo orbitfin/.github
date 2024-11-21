@@ -1,8 +1,11 @@
 ## About Orbit 👋
-Turning unstructured data into predictive indicators.
-Our products provide early warning indicators via an intuitive online dashboard, rapidly mining news feeds and unstructured data at speed and scale to highlight risk probability based on your search parameters.
+Orbit is an AI-powered platform for financial services, combining an AI Studio with a comprehensive knowledge base giving you an accuracy, transparency, and efficiency that was previously thought impossible.
 
-As well as predictive analytics and risk oversight, we can provide an additional layer of scrutiny that evidences and predicts the positive, negative or neutral events that occur in global financial markets.
+The Orbit Platform is made up of two distinct parts that can work separately or in harmony with each other, Orbit Insight and Orbit Data. 
+
+Orbit Insight is an AI Studio that allows for workflow automation providing a comprehensive analysis of either Orbit's vast knowledge base and/or your internal data.
+
+Orbit data is a collection of knowledge bases, comprising currently of over 70 million documents processed annually, covering 71,000+ companies, across 50 countries and growing daily.
 
 <!--
 
