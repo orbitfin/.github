@@ -7,6 +7,13 @@ Orbit Insight is an AI Studio that allows for workflow automation providing a co
 
 Orbit data is a collection of knowledge bases, comprising currently of over 70 million documents processed annually, covering 71,000+ companies, across 50 countries and growing daily.
 
+Orbit是一个基于人工智能的金融服务平台，将人工智能工作室与全面的知识库相结合，为您提供以前认为不可能的准确性、透明度和效率。
+
+Orbit平台由两个不同的部分组成，可以单独工作或相互协调，即Orbit Insight和Orbit Data。
+
+Orbit Insight是一个AI工作室，它允许工作流自动化，对Orbit庞大的知识库和/或您的内部数据进行全面分析。
+
+Orbit数据是一组知识库，目前每年处理7000多万份文档，涵盖50个国家的71000多家公司，并且每天都在增长。
 <!--
 
 **Here are some ideas to get you started:**
